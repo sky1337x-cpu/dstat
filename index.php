@@ -30,7 +30,7 @@
             function parseFile()
             {
                 $.ajax({
-                    url: "https://graph.vshield.pro/7VTnnXWvhdVeUC6q",
+                    url: "https://graph.drophub.ink/7VTnnXWvhdVeUC6q",
                     dataType: "text",
                     cache: false
                 })
